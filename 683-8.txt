@@ -12,6 +12,7 @@ Author: Izaak Walton
 
 Posting Date: June 25, 2011 [EBook #683]
 Release Date: October, 1996
+Last Updated: July 11, 2016
 
 Language: English
 
@@ -63,7 +64,7 @@ day or two to this recreation.
 At which time, if common Anglers should attend you, and be eyewitnesses
 of the success, not of your fortune, but your skill, it would doubtless
 beget in them an emulation to be like you, and that emulation might
-beget an industrious diligence to be so; but I know it is not attain bye
+beget an industrious diligence to be so; but I know it is not attainable
 by common capacities: and there be now many men of great wisdom,
 learning, and experience, which love and practice this Art, that know I
 speak the truth.
@@ -142,7 +143,7 @@ Next, let me tell the Reader, that in that which is the more useful part
 of this Discourse, that is to say, the observations of the nature and
 breeding, and seasons, and catching of fish, I am not so simple as not
 to know, that a captious reader may find exceptions against something
-said of some of these; and therefore I must entreat him to con. eider,
+said of some of these; and therefore I must entreat him to consider,
 that experience teaches us to know that several countries alter the
 time, and I think, almost the manner, of fishes' breeding, but doubtless
 of their being in season; as may appear by three rivers in
@@ -219,7 +220,7 @@ Piscator, Venator, Auceps
 
 Piscator. You are well overtaken, Gentlemen! A good morning to you both!
 I have stretched my legs up Tottenham Hill to overtake you, hoping your
-business may occasion you towards Ware whither I am going this fine
+business may occasion you towards Ware, whither I am going this fine
 fresh May morning.
 
 Venator. Sir, I, for my part, shall almost answer your hopes; for my
@@ -299,18 +300,19 @@ malice, will do it; but though they often venture boldly, yet they are
 often caught, even in their own trap, according to that of Lucian, the
 father of the family of Scoffers:
 
-Lucian, well skilled in scoffing, this hath writ, Friend, that's your
-folly, which you think your wit: This you vent oft, void both of wit and
-fear, Meaning another, when yourself you jeer.
+     "_Lucian, well skilled in scoffing, this hath writ;
+     Friend, that's your folly, which you think your wit:
+     This, you vent oft, void both of wit and fear,
+     Meaning another, when yourself you jeer._"
 
-If to this you add what Solomon says of Scoffers, that they are an
-abomination to mankind, let him that thinks fit scoff on, and be a
+If to this you add what Solomon says of Scoffers, that "they are an
+abomination to mankind," let him that thinks fit scoff on, and be a
 Scoffer still; but I account them enemies to me and all that love Virtue
 and Angling.
 
 And for you that have heard many grave, serious men pity Anglers; let me
 tell you, Sir, there be many men that are by others taken to be serious
-and grave men, whom we contemn and pity Men that are taken to be grave,
+and grave men, whom we contemn and pity. Men that are taken to be grave,
 because nature hath made them of a sour complexion; money-getting men,
 men that spend all their time, first in getting, and next, in anxious
 care to keep it; men that are condemned to be rich, and then always busy
@@ -396,7 +398,7 @@ to own me for her Master, to go home with me, and be willing the next
 day to afford me the like recreation.
 
 And more; this element of air which I profess to trade in, the worth of
-it is such, and it is of such necessity, that no creature whatsoever-not
+it is such, and it is of such necessity, that no creature whatsoever--not
 only those numerous creatures that feed on the face of the earth, but
 those various creatures that have their dwelling within the waters,
 every creature that hath life in its nostrils, stands in need of my
@@ -412,10 +414,10 @@ an instant turns to putrefaction.
 Nay more; the very birds of the air, those that be not Hawks, are both
 so many and so useful and pleasant to mankind, that I must not let them
 pass without some observations. They both feed and refresh him; feed him
-with their choice bodies, and refresh him with their heavenly voices:-I
+with their choice bodies, and refresh him with their heavenly voices. I
 will not undertake to mention the several kinds of Fowl by which this is
 done: and his curious palate pleased by day, and which with their very
-excrements afford him a soft lodging at night:-These I will pass by, but
+excrements afford him a soft lodging at night. These I will pass by, but
 not those little nimble musicians of the air, that warble forth their
 curious ditties, with which nature hath furnished them to the shame of
 art.
@@ -742,7 +744,7 @@ to deceive a Trout with an artificial Fly? a Trout! that is more
 sharp-sighted than any Hawk you have named, and more watchful and
 timorous than your high-mettled Merlin is bold? and yet, I doubt not to
 catch a brace or two to-morrow, for a friend's breakfast: doubt not
-therefore, Sir, but that angling is an art, and an worth your learning.
+therefore, Sir, but that angling is an art, and an art worth your learning.
 The question is rather, whether you be capable of learning it? angling
 is somewhat like poetry, men are to be born so: I mean, with
 inclinations to it, though both may be heightened by discourse and
@@ -762,7 +764,7 @@ others, that Belus, who was the first inventor of godly and virtuous
 recreations, was the first inventor of Angling: and some others say, for
 former times have had their disquisitions about the antiquity of it,
 that Seth, one of the sons of Adam, taught it to his sons, and that by
-them it was derived to posterity: others say that he left it engraver on
+them it was derived to posterity: others say that he left it engraven on
 those pillars which he erected, and trusted to preserve the knowledge of
 the mathematicks, musick, and the rest of that precious knowledge, and
 those useful arts, which by God's appointment or allowance, and his
@@ -1084,7 +1086,7 @@ quietness; men of mild, and sweet, and peaceable spirits, as indeed most
 Anglers are: these men our blessed Saviour, who is observed to love to
 plant grace in good natures, though indeed nothing be too hard for him,
 yet these men he chose to call from their irreprovable employment of
-fig, an, and gave them grace to be his disciples, and to follow him, and
+fishing, and gave them grace to be his disciples, and to follow him, and
 do wonders; I say four of twelve.
 
 And it is observable, that it was our Saviour's will that these, our
@@ -1654,7 +1656,7 @@ Being thus dressed, you will find him a much better dish of meat than
 you, or most folk, even than anglers themselves, do imagine: for this
 dries up the fluid watery humour with which all Chubs do abound. But
 take this rule with you, That a Chub newly taken and newly dressed, is
-so much better than a Chub of a day's keeping after he is dead, that L
+so much better than a Chub of a day's keeping after he is dead, that I
 can compare him to nothing so fitly as to cherries newly gathered from a
 tree, and others that have been bruised and lain a day or two in water.
 But the Chub being thus used, and dressed presently; and not washed
@@ -1891,7 +1893,7 @@ fly in England for six months in the year, but about Michaelmas leave us
 for a hotter climate, yet some of them that have been left behind their
 fellows, have been found, many thousands at a time, in hollow trees, or
 clay caves, where they have been observed to live, and sleep out the
-whole winter, without meat. And so Albertus observes, That there is one
+whole winter, without meat. And so Albertus observes, that there is one
 kind of frog that hath her mouth naturally shut up about the end of
 August, and that she lives so all the winter: and though it be strange
 to some, yet it is known to too many among us to be doubted.
@@ -1979,7 +1981,7 @@ shape, and spots, and colour. The great Kentish hens may be an instance,
 compared to other hens: and, doubtless, there is a kind of small Trout,
 which will never thrive to be big; that breeds very many more than
 others do, that be of a larger size: which you may rasher believe, if
-you consider that the little wren end titmouse will have twenty young
+you consider that the little wren and titmouse will have twenty young
 ones at a time, when, usually, the noble hawk, or the musical thrassel
 or blackbird, exceed not four or five.
 
@@ -2002,7 +2004,7 @@ say you now, is not this worth all my labour and your patience?
 Venator. On my word, master, this is a gallant Trout; what shall we do
 with him?
 
-Piscator. Marry, e en eat him to supper: we'll go to my hostess from
+Piscator. Marry, e'en eat him to supper: we'll go to my hostess from
 whence we came; she told me, as I was going out of door, that my brother
 Peter, a good angler and a cheerful companion, had sent word he would
 lodge there to-night, and bring a friend with him. My hostess has two
@@ -2298,7 +2300,7 @@ Venator. Tis a match; and I will provide you a song or a catch against
 then, too, which shall give some addition of mirth to the company; for
 we will be civil and as merry as beggars.
 
-Piscator. Tis a match, my masters. Let's e en say grace, and turn to the
+Piscator. Tis a match, my masters. Let's e'en say grace, and turn to the
 fire, drink the other cup to whet our whistles, and so sing away all sad
 thoughts. Come on, my masters, who begins? I think it is best to draw
 cuts, and avoid contention.
@@ -2857,7 +2859,7 @@ in his head. The seventh is the sad yellow-fly in June: the body is made
 of black wool, with a yellow list on either side; and the wings taken
 off the wings of a buzzard, bound with black braked hemp. The eighth is
 the moorish-fly; made, with the body, of duskish wool; and the wings
-made of the blackish mail of the drake. The ninth is the t-fly-fly, good
+made of the blackish mail of the drake. The ninth is the tawny-fly, good
 until the middle of June: the body made of tawny wool; the wings made
 contrary one against the other, made of the whitish mail of the wild
 drake. The tenth is the wasp-fly in July; the body made of black wool,
@@ -2971,7 +2973,7 @@ in deeper water, in winter than in summer; and also nearer the bottom in
 any cold day, and then gets nearest the lee-side of the water.
 
 But I promised to tell you more of the Fly-fishing for a Trout; which I
-may have time enough to do, for you see it rains May butter. First for a
+may have time enough to do, for you see it rains May-butter. First for a
 Mayfly: you may make his body with greenish-coloured crewel, or
 willowish colour; darkening it in most places with waxed silk; or ribbed
 with black hair; or, some of them, ribbed with silver thread; and such
@@ -3431,7 +3433,7 @@ in the fine wool ground: which I tell you, that you may the better
 believe that I am certain, if I catch a Trout in one meadow, he shall be
 white and faint, and very like to be lousy; and, as certainly, it I
 catch a Trout in the next meadow, he shall be strong, and red, and
-lusty, and much better meat Trust me, scholar, I have caught many a
+lusty, and much better meat. Trust me, scholar, I have caught many a
 Trout in a particular meadow, that the very shape and the enamelled
 colour of him hath been such as hath joyed me to look on him: and I have
 then, with much pleasure, concluded with Solomon, "Everything is
@@ -3531,7 +3533,7 @@ spawn, and to become Samlets early in the spring next following.
 
 The Salmons having spent their appointed time, and done this natural
 duty in the fresh waters, they then haste to the sea before winter, both
-the melter and spawner; but if they be stops by flood-gates or weirs, or
+the melter and spawner; but if they be stopped by flood-gates or weirs, or
 lost in the fresh waters, then those so left behind by degrees grow sick
 and lean, and unseasonable, and kipper, that is to say, have bony
 gristles grow out of their lower chaps, not unlike a hawk's beak, which
@@ -3627,7 +3629,7 @@ and Salmon in season in winter, as 'tis certain there be in the river
 Wye in Monmouthshire, where they be in season, as Camden observes, from
 September till April. But, my scholar, the observation of this and many
 other things I must in manners omit, because they will prove too large
-for our narrow compass of time, and, therefore, T shall next fall upon
+for our narrow compass of time, and, therefore, I shall next fall upon
 my directions how to fish for this Salmon.
 
 And, for that: First you shall observe, that usually he stays not long
@@ -3911,7 +3913,7 @@ scar, as you may put the arming-wire of your hook into it, with as
 little bruising or hurting the fish as art and diligence will enable you
 to do; and so carrying your arming-wire along his back, unto or near the
 tail of your fish, betwixt the skin and the body of it, draw out that
-wire or arming of your hook at another scar near to his: the then tie
+wire or arming of your hook at another scar near to his tail then tie
 him about it with thread, but no harder than of necessity, to prevent
 hurting the fish; and the better to avoid hurting the fish, some have a
 kind of probe to open the way for the more easy entrance and passage of
@@ -4183,7 +4185,7 @@ their teeth in their throat; and for that reason he is very seldom lost
 by breaking his hold, if your hook be once stuck into his chaps.
 
 I told you that Sir Francis Bacon thinks that the Carp lives but ten
-years: but Janus Dubravius has writ a book Of fish and fish-ponds in
+years: but Janus Dubravius has written a book Of fish and fish-ponds in
 which he says, that Carps begin to spawn at the age of three years, and
 continue to do so till thirty: he says also, that in the time of their
 breeding, which is in summer, when the sun hath warmed both the earth
@@ -4574,7 +4576,7 @@ few, and but a few, directions how to catch this Tench, of which I have
 given you these observations.
 
 He will bite at a paste made of brown bread and honey, or at a
-Marsh-worm, or a lob-worm; he inclines very much to any paste with which
+marsh-worm, or a lob-worm; he inclines very much to any paste with which
 tar is mixt, and he will bite also at a smaller worm with his head
 nipped off, and a cod-worm put on the hook before that worm. And I doubt
 not but that he will also, in the three hot months, for in the nine
@@ -4600,7 +4602,7 @@ of the fishes of prey that, like the Pike and Trout, carries his teeth
 in his mouth, which is very large: and he dare venture to kill and
 devour several other kinds of fish. He has a hooked or hog back, which
 is armed with sharp and stiff bristles, and all his skin armed, or
-covered over with thick dry hard scales, and hash, which few other fish
+covered over with thick dry hard scales, and hath, which few other fish
 have, two fins on his back. He is so bold that he will invade one of his
 own kind, which the Pike will not do so willingly; and you may,
 therefore, easily believe him to be a bold biter.
@@ -4790,7 +4792,7 @@ water; and I do the more easily believe this, because I am certain that
 powdered beef is a most excellent bait to catch an Eel. And though Sir
 Francis Bacon will allow the Eel's life to be but ten years, yet he, in
 his History of Life and Death, mentions a Lamprey, belonging to the
-Roman emperor, to be made tame, and so kept for almost threescorc years;
+Roman emperor, to be made tame, and so kept for almost threescore years;
 and that such useful and pleasant observations were made of this
 Lamprey, that Crassus the orator, who kept her, lamented her death; and
 we read in Doctor Hakewill, that Hortensius was seen to weep at the
@@ -4855,13 +4857,13 @@ Eel by Snigling, and have been much pleased with that sport.
 And because you, that are but a young angler, know not what Snigling is
 I will now teach it to you. You remember I told you that Eels do not
 usually stir in the daytime; for then they hide themselves under some
-covert; or under boards or planks about flood-gates, or weirs, or mills:
+covert; or under boards or planks about flood-gates, or weirs, or mills;
 or in holes on the river banks: so that you, observing your time in a
 warm day, when the water is lowest, may take a strong small hook, tied
 to a strong line, or to a string about a yard long; and then into one of
 these holes, or between any boards about a mill, or under any great
 stone or plank, or any place where you think an Eel may hide or shelter
-herself, you may, with the help of a short stick, put in y our bait, but
+herself, you may, with the help of a short stick, put in your bait, but
 leisurely, and as far as you may conveniently; and it is scarce to be
 doubted, but if there be an Eel within the sight of it, the Eel will
 bite instantly, and as certainly gorge it; and you need not doubt to
@@ -4871,7 +4873,7 @@ help of his tail, break all, unless you give him time to be wearied with
 pulling, and so get him out by degrees, not pulling too hard.
 
 And to commute for your patient hearing this long direction, I shall
-next tell you, How to make this Eel a most excellent dish of meat.
+next tell you, how to make this Eel a most excellent dish of meat.
 
 First, wash him in water and salt; then pull off his skin below his vent
 or navel, and not much further: having done that, take out his guts as
@@ -5286,7 +5288,7 @@ Piscator. Well then, here s to you, Coridon; and now for my song.
 
     Jo. Chalkhill.
 
-Venator. Well sung, master; this day s fortune and pleasure, and the
+Venator. Well sung, master; this day's fortune and pleasure, and the
 night's company and song, do all make me more and more in love with
 angling. Gentlemen, my master left me alone for an hour this day; and I
 verily believe he retired himself from talking with me that he might be
@@ -5627,7 +5629,7 @@ But you must have all these tackling, and twice so many more, with
 which, if you mean to be a fisher, you must store yourself; and to that
 purpose I will go with you, either to Mr. Margrave, who dwells amongst
 the book-sellers in St. Paul's Church-yard, or to Mr. John Stubs, near
-to the Swan in Goldinglane: they be both honest, an, and will fit an
+to the Swan in Goldinglane: they be both honest men, and will fit an
 angler with what tackling he lacks.
 
 Venator. Then, good master, let it be at--for he is nearest to my
@@ -5778,7 +5780,7 @@ little and clear swift brooks or rills, and lives there upon the gravel,
 and in the sharpest streams: he grows not to be above a finger long, and
 no thicker than is suitable to that length. The Loach is not unlike the
 shape of the Eel: he has a beard or wattles like a barbel. He has two
-fins at his sides, four at his belly, and one et his tail; he is dappled
+fins at his sides, four at his belly, and one at his tail; he is dappled
 with many black or brown spots; his mouth is barbel-like under his nose.
 This fish is usually full of eggs or spawn; and is by Gesner, and other
 learned physicians, commended for great nourishment, and to be very
@@ -5856,7 +5858,7 @@ Chapter XIX
 Piscator
 
 WELL, scholar, since the ways and weather do both favour us, and that we
-yet see not 'Tottenham-Cross, you shall see my willingness to satisfy
+yet see not Tottenham-Cross, you shall see my willingness to satisfy
 your desire. And, first, for the rivers of this nation: there be, as you
 may note out of Dr. Heylin's Geography and others, in number three
 hundred and twenty-five; but those of chiefest note he reckons and
@@ -6021,7 +6023,7 @@ fish to be so to the eater of it.
 ground, and in the hot months to feed on grass. You are to cleanse your
 pond, if you intend either profit or pleasure, once every three or four
 years, especially some ponds, and then let it dry six or twelve months,
-both to kill the water-weeds, as water-lilies, can-docks, reate, and
+both to kill the water-weeds, as water-lilies, candocks, reate, and
 bulrushes, that breed there; and also that as these die for want of
 water, so grass may grow in the pond's bottom, which Carps will eat
 greedily in all the hot months, if the pond be clean. The letting your
@@ -6192,7 +6194,7 @@ business of his life is to get money, and more money, that he may still
 get more and more money; he is still drudging on, and says, that Solomon
 says "The diligent hand maketh rich"; and it is true indeed: but he
 considers not that it is not in the power of riches to make a man happy;
-for it was wisely said, by a man of great observation," That there be as
+for it was wisely said, by a man of great observation, "that there be as
 many miseries beyond riches as on this side of them ". And yet God
 deliver us from pinching poverty; and grant, that having a competency,
 we may be content and thankful. Let not us repine, or so much as think
@@ -6246,9 +6248,9 @@ But his friend, knowing his temper, told him, "If he would find content
 in any of his houses, he must leave himself behind him; for content will
 never dwell but in a meek and quiet soul". And this may appear, if we
 read and consider what our Saviour says in St. Matthew's Gospel; for He
-there says—" Blessed be the merciful, for they shall obtain mercy.
+there says—"Blessed be the merciful, for they shall obtain mercy.
 Blessed be the pure in heart, for they shall see God. Blessed be the
-poor in spirit, for theirs is the kingdom of heaven. And, Blessed be the
+poor in spirit, for theirs is the kingdom of heaven. And, "Blessed be the
 meek, for they shall possess the earth." Not that the meek shall not
 also obtain mercy, and see God, and be comforted, and at last come to
 the kingdom of heaven: but in the meantime, he, and he only, possesses
@@ -6495,7 +6497,7 @@ praise the Lord: and let the blessing of St. Peter's Master be with
 mine.
 
 Piscator. And upon all that are lovers of virtue; and dare trust in his
-providence; and be quiet; and go a Angling.
+providence; and be quiet; and go a-Angling.
 
 "Study to be quiet."
 
